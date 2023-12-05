@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "outDir": "./dist",
+    "lib": ["es5", "es6", "dom"],
+    "rootDir": ".",
+    "declaration": true,
+    "moduleResolution": "node",
+    "strictPropertyInitialization": false,
+    "sourceMap": true,
+    "strict": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true
+  }
+}
