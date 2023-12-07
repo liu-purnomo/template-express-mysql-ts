@@ -11,5 +11,5 @@ This is a specialized foundational template designed to streamline the creation 
   
 Get started quickly and focus on building exceptional features for your application! 🌟
 
-Please visit the template usage guide at [https://liupurnomo.com/blog/web-development/template-express-mysql-ts](https://liupurnomo.com/blog/web-development/template-express-mysql-ts) for installation and usage instructions.
+Please visit the template usage guide at [https://liupurnomo.com/projects/template-express-mysql-ts](https://liupurnomo.com/projects/template-express-mysql-ts) for installation and usage instructions.
 
